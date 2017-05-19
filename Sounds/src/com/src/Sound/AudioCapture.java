@@ -24,6 +24,9 @@ the Playback button.
 Tested using SDK 1.4.0 under Win2000
 **************************************/
 
+
+
+// Old code to capture audio from mic input
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
